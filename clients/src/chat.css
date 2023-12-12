@@ -1,0 +1,15 @@
+#you{
+color: tomato;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 650px;
+}
+
+
+#other{
+color: blue;
+    display: flex;
+    justify-content: center;
+    width: 120px;
+}
